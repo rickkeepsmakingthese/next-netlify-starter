@@ -6,14 +6,19 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Creating beyond the parameters of Science</title>
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Creating beyond the parameters " />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <p>Often lost beyond a state of being, art is viewed as a privelege and luxury; 
+        the recognition that we value are within a subjective manner and yet clamour for the creation of it
+        in a collective craze displays a hypnotic grasp that art has upon us all.
+        Perhaps then it is vital to view2 the conception and constant hunger for art for what it truly is;
+        A survival instinct. </p>
+        <img src="https://wallpapercave.com/wp/wp4138551.jpg" alt="The Truman Show (dir. Peter Weir)">
+  </body></code>
         </p>
       </main>
 
